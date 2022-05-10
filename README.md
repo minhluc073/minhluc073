@@ -1,13 +1,12 @@
 
-<div align="center">
+<p align="center">
   <h1 align="center">Hi 👋, I'm Minh Luc Nguyen</h1> 
   <img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/>
-</div>
+</p>
 
 
-
+## 📫 How to reach me:
 <p align="center">
-  ## 📫 How to reach me:
   <a href="https://www.facebook.com/MinhLucN/" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
