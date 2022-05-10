@@ -1,8 +1,8 @@
 
-<p style="display:flex">
+<div style="display:flex">
   <h1 align="center" style="margin-bottom: -20px;">Hi 👋, I'm Minh Luc Nguyen</h1> 
   <img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/>
-</p>
+</div>
 
 
 
