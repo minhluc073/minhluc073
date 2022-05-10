@@ -4,7 +4,6 @@
   </h1> 
   
 
-## FROME: <img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/>
 
 ## 📫 How to reach me:
 <p align="center">
@@ -14,5 +13,5 @@
   <a href="https://github.com/minhluc073" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a>
-  
+  <img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/>
 </p>
