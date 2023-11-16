@@ -1,6 +1,6 @@
 
 
-  <h1 align="center" style="margin-bottom: -20px;">Hi 👋, I'm Minh Luc Nguyen
+  <h1 align="center" style="margin-bottom: -20px;">Hi 👋
   </h1> 
   
 
